@@ -14,6 +14,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # Your RSS feed url
-          feed_list: "https://osmkoc.com/yazilim/feed"
+          feed_list: "https://osmkoc.com/feed"
           # Maximum number of posts you want
           max_post_count: 3
