@@ -61,12 +61,14 @@
 </p>
 
 <h3 align="center">Latest Blog Posts</h3>
-<p align="right">
+<p align="left">
+ 
 <!-- BLOG-POST-LIST:START -->
 - [Deprem Düdüğü v2 DarkMode özelliği ile yayında!](https://osmkoc.com/deprem-dudugu-v2-dark-mode-ozelligi-ile-yayinda/)
 - [Yapay Zeka Destekli Discord Botu &lpar;NodeJS&rpar;](https://osmkoc.com/yapay-zeka-destekli-discord-botu-nodejs/)
 - [Deprem Düdüğü yardım uygulaması yayında](https://osmkoc.com/deprem-dudugu-yardim-uygulamasi-yayinda/)
 <!-- BLOG-POST-LIST:END --> 
+ 
 </p>
 
 
