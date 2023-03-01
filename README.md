@@ -41,15 +41,6 @@
 </p>
 
 
-<h3 align="center">Learning</h3>
-<p align="center">
-<a href="https://nuxtjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> </a> 
-&nbsp;
-<a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a> 
-&nbsp;
-<a href="https://redux.js.org//" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="reduxjs" width="40" height="40"/> </a> 
-</p>
-
 <h3 align="center">Tools</h3>
 <p align="center">
 <a href="https://visualstudio.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio" width="30" height="30"/> </a>
