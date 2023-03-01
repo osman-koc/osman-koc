@@ -78,10 +78,6 @@
     <img alt="İsa Sarı GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=osman-koc&theme=algolia&hide_border=true">
 </div>
 
-<!--<div align="center">
-    <img alt="GitHub Activity Graph" width="96%" src="https://activity-graph.herokuapp.com/graph?username=osman-koc&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph"> </div>-->
-    
-
 <hr>
 
 ![](https://komarev.com/ghpvc/?username=osman-koc)
