@@ -67,6 +67,8 @@
 - [Deprem Düdüğü v2 DarkMode özelliği ile yayında!](https://osmkoc.com/deprem-dudugu-v2-dark-mode-ozelligi-ile-yayinda/)
 - [Yapay Zeka Destekli Discord Botu &lpar;NodeJS&rpar;](https://osmkoc.com/yapay-zeka-destekli-discord-botu-nodejs/)
 - [Deprem Düdüğü yardım uygulaması yayında](https://osmkoc.com/deprem-dudugu-yardim-uygulamasi-yayinda/)
+- [Getmar market karşılaştırma uygulaması Play Store’da!](https://osmkoc.com/getmar-market-karsilastirma-uygulamasi-play-storeda/)
+- [Ay’a ilk adımın 50.yılında: Bir daha ne zaman?](https://osmkoc.com/aya-ilk-adimin-50-yilinda-bir-daha-ne-zaman/)
 <!-- BLOG-POST-LIST:END --> 
  
 </p>
