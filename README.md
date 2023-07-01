@@ -1,10 +1,13 @@
 <h1 align="center"> Hi there 👋 I'm Osman</h1>
 <h2 align="center"> Backend Developer </h2>
-<p align="justify"> ⚡ I have been curious about computers and software since my childhood. When I first met the computer, my older brother was moving the mouse and I was watching him with curious looks. Since then, my curiosity, desire to research and love have never decreased. I studied Information Technologies at Vocational High School and then Computer Engineering at university. I am currently doing my master's degree in Computer Engineering.
+<p align="justify"> ⚡ From an early age, I have been captivated by computers and software. I still remember the first time I encountered a computer; I watched in awe as my older brother moved the mouse, sparking my curiosity and igniting my passion for exploration. Since then, my enthusiasm for technology and my thirst for knowledge have only grown.
+ <br /><br />
+ ⚡ I pursued my education in the field of Information Technologies at Vocational High School and further expanded my knowledge by studying Computer Engineering at university. Currently, I am actively engaged in pursuing my master's degree in Computer Engineering.
 <br /><br />
- ⚡ I am working as a <strong>Senior Developer</strong> at <a href="https://github.com/kocdigital" target="_blank">@kocdigital</a>. I work as a backend developer and Scrum Master in an Agile team that develops IoT software. Previously, I was working as a Specialist Developer at <a href="https://rasyotek.com.tr/" target="_blank">@rasyotek</a>, which develops human resources software. Here, I worked as a full stack developer in an <strong>Agile team</strong>. I am an expert in developing software with <strong>C#</strong>. I use up-to-date technologies with microservice architectures.
+ ⚡ Professionally, I hold the role of a Senior Developer at @kocdigital, where I work as a backend developer and Scrum Master within an Agile team focused on IoT software development. Previously, I gained experience as a Specialist Developer at @rasyotek, contributing as a full-stack developer in an Agile team specializing in human resources software. Throughout my career, I have developed a strong expertise in C# and have kept up with the latest technologies, particularly in microservice architectures.
 <br /><br />
- ⚡ I develop and share some applications to improve myself and produce something personally. I'm trying some apps with <strong>Node.js</strong> and <strong>Flutter</strong>. Although I develop and publish mobile applications, I am not a mobile developer, I just like to produce things.</p>
+ ⚡ Outside of my professional responsibilities, I enjoy challenging myself by developing and sharing various applications. I have been exploring Node.js and Flutter, working on app development projects to enhance my skills. Although mobile development is not my primary focus, I thoroughly enjoy the process of ideation, creation, and delivery.
+</p>
 <hr>
 
 
