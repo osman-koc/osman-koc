@@ -36,11 +36,7 @@
 <h3>Latest Blog Posts</h3>
 <p align="left">
  
-<!-- blog-post-list:start -->
-## Osman KOÇ
-
-Blog
-
+<!-- BLOG-POST-LIST:START -->
 [Read more](https://osmkoc.com/)
 > Last updated: Monday, August 14, 2023 at 2:14:32 PM
 
@@ -52,8 +48,7 @@ Blog
 [![Yapay Zeka Destekli Discord Botu (NodeJS) » Osman KOÇ](https://raw.githubusercontent.com/osman-koc/osman-koc/main/blog-post-list-output/Osman_KOÇ/Yapay_Zeka_Destekli_Discord_Botu_(NodeJS)_»_Osman_KOÇ.svg)](https://osmkoc.com/yapay-zeka-destekli-discord-botu-nodejs/)
 [![Deprem Düdüğü yardım uygulaması yayında » Osman KOÇ](https://raw.githubusercontent.com/osman-koc/osman-koc/main/blog-post-list-output/Osman_KOÇ/Deprem_Düdüğü_yardım_uygulaması_yayında_»_Osman_KOÇ.svg)](https://osmkoc.com/deprem-dudugu-yardim-uygulamasi-yayinda/)
 
-
-<!-- blog-post-list:end --> 
+<!-- BLOG-POST-LIST:END --> 
  
 </p>
 
