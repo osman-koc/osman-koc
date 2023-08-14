@@ -47,8 +47,8 @@
 </p>
 
 
+<h3>Github Stats</h3>
 <div align="center">
-<h3 align="center">Github Stats</h3>
     <img alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=osman-koc&show_icons=true&theme=radical&count_private=true">
     <img alt="İsa Sarı GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=osman-koc&theme=algolia&hide_border=true">
 </div>
