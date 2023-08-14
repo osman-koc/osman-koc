@@ -36,13 +36,13 @@
 <h3>Latest Blog Posts</h3>
 <p align="left">
  
-<!-- BLOG-POST-LIST:START -->
+<!-- blog-post-list:start -->
 - [İlk VS Eklentim &lpar;GuidGenerator&rpar; &amp; İlk Medium Yazım](https://osmkoc.com/ilk-vs-eklentim-guidgenerator-ilk-medium-yazim/)
 - [En Yaygın Full Stack Yazılım Dilleri ve Teknolojileri](https://osmkoc.com/en-yaygin-full-stack-yazilim-dilleri-ve-teknolojileri/)
 - [Deprem Düdüğü v2 DarkMode özelliği ile yayında!](https://osmkoc.com/deprem-dudugu-v2-dark-mode-ozelligi-ile-yayinda/)
 - [Yapay Zeka Destekli Discord Botu &lpar;NodeJS&rpar;](https://osmkoc.com/yapay-zeka-destekli-discord-botu-nodejs/)
 - [Deprem Düdüğü yardım uygulaması yayında](https://osmkoc.com/deprem-dudugu-yardim-uygulamasi-yayinda/)
-<!-- BLOG-POST-LIST:END --> 
+<!-- blog-post-list:end --> 
  
 </p>
 
