@@ -37,11 +37,22 @@
 <p align="left">
  
 <!-- blog-post-list:start -->
-- [İlk VS Eklentim &lpar;GuidGenerator&rpar; &amp; İlk Medium Yazım](https://osmkoc.com/ilk-vs-eklentim-guidgenerator-ilk-medium-yazim/)
-- [En Yaygın Full Stack Yazılım Dilleri ve Teknolojileri](https://osmkoc.com/en-yaygin-full-stack-yazilim-dilleri-ve-teknolojileri/)
-- [Deprem Düdüğü v2 DarkMode özelliği ile yayında!](https://osmkoc.com/deprem-dudugu-v2-dark-mode-ozelligi-ile-yayinda/)
-- [Yapay Zeka Destekli Discord Botu &lpar;NodeJS&rpar;](https://osmkoc.com/yapay-zeka-destekli-discord-botu-nodejs/)
-- [Deprem Düdüğü yardım uygulaması yayında](https://osmkoc.com/deprem-dudugu-yardim-uygulamasi-yayinda/)
+## Osman KOÇ
+
+Blog
+
+[Read more](https://osmkoc.com/)
+> Last updated: Monday, August 14, 2023 at 2:14:32 PM
+
+> Showing 5 of 10 posts.
+
+[![İlk VS Eklentim (GuidGenerator) & İlk Medium Yazım » Osman KOÇ](https://raw.githubusercontent.com/osman-koc/osman-koc/main/blog-post-list-output/Osman_KOÇ/İlk_VS_Eklentim_(GuidGenerator)___İlk_Medium_Yazım_»_Osman_KOÇ.svg)](https://osmkoc.com/ilk-vs-eklentim-guidgenerator-ilk-medium-yazim/)
+[![En Yaygın Full Stack Yazılım Dilleri ve Teknolojileri » Osman KOÇ](https://raw.githubusercontent.com/osman-koc/osman-koc/main/blog-post-list-output/Osman_KOÇ/En_Yaygın_Full_Stack_Yazılım_Dilleri_ve_Teknolojileri_»_Osman_KOÇ.svg)](https://osmkoc.com/en-yaygin-full-stack-yazilim-dilleri-ve-teknolojileri/)
+[![Deprem Düdüğü v2 DarkMode özelliği ile yayında! » Osman KOÇ](https://raw.githubusercontent.com/osman-koc/osman-koc/main/blog-post-list-output/Osman_KOÇ/Deprem_Düdüğü_v2_DarkMode_özelliği_ile_yayında!_»_Osman_KOÇ.svg)](https://osmkoc.com/deprem-dudugu-v2-dark-mode-ozelligi-ile-yayinda/)
+[![Yapay Zeka Destekli Discord Botu (NodeJS) » Osman KOÇ](https://raw.githubusercontent.com/osman-koc/osman-koc/main/blog-post-list-output/Osman_KOÇ/Yapay_Zeka_Destekli_Discord_Botu_(NodeJS)_»_Osman_KOÇ.svg)](https://osmkoc.com/yapay-zeka-destekli-discord-botu-nodejs/)
+[![Deprem Düdüğü yardım uygulaması yayında » Osman KOÇ](https://raw.githubusercontent.com/osman-koc/osman-koc/main/blog-post-list-output/Osman_KOÇ/Deprem_Düdüğü_yardım_uygulaması_yayında_»_Osman_KOÇ.svg)](https://osmkoc.com/deprem-dudugu-yardim-uygulamasi-yayinda/)
+
+
 <!-- blog-post-list:end --> 
  
 </p>
