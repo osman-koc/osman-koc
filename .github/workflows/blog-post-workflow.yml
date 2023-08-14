@@ -13,7 +13,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Pull in osmkoc.com posts
+        uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
-          feed_list: "https://osmkoc.com/feed/"
+          feed_urls: "https://osmkoc.com/feed/"
+      - name: Commit changed files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Save Generated Blog Posts
+          skip_checkout: true
