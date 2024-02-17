@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 I'm Osman</h1>
-<h2 align="center"> Software Development Engineer </h2>
+<h2 align="center"> Senior Software Engineer </h2>
 <p align="justify"> ⚡ From an early age, I have been captivated by computers and software. I still remember the first time I encountered a computer; I watched in awe as my older brother moved the mouse, sparking my curiosity and igniting my passion for exploration. Since then, my enthusiasm for technology and my thirst for knowledge have only grown.
  <br /><br />
  ⚡ I pursued my education in the field of Information Technologies at Vocational High School and further expanded my knowledge by studying Computer Engineering at university. Currently, I am actively engaged in pursuing my master's degree in Computer Engineering.
