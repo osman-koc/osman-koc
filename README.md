@@ -9,8 +9,7 @@ Software Engineer with expertise in backend development, microservices, and clou
 ## About
 
 - 🎓 MSc & BSc in Computer Engineering
-- 💼 6+ years of industry experience
-- 💡 Specialized in C#, .NET, Node.js, Microservices, Web Development
+- 💡 Specialized in C#, .NET, Node.js, Microservices
 - 🚀 Current focus: Product Development
 
 ## Recent Articles
