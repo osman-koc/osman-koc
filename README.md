@@ -1,64 +1,21 @@
-<h1 align="center">👋 Hi, I'm Osman Koç</h1>
-<h2 align="center">Senior Software Engineer</h2>
+# Osman Koç
 
-<p align="justify"> 
-From an early age, I have been captivated by the world of technology. My journey began with a simple curiosity, which evolved into a passion for software development and engineering. Over the years, I have honed my skills, both academically and professionally, in the field of Computer Engineering.
-</p>
+Software Engineer with expertise in backend development, microservices, and cloud technologies.
 
-<h3>About Me</h3>
-<ul>
-    <li>🎓 <b>Education:</b> Master's in Computer Engineering | Bachelor's in Computer Engineering</li>
-    <li>💼 <b>Current Role:</b> Senior Software Engineer at <a href="https://www.turkcell.com.tr/" target="_blank">Turkcell</a>, specializing in no-code and low-code platform development.</li>
-    <li>🏢 <b>Previous Experience:</b> Senior Software Engineer at <a href="https://www.kocdigital.com/en-us/home" target="_blank">KoçDigital</a> | Specialist Software Engineer at <a href="https://rasyotek.com.tr/" target="_blank">Rasyotek</a></li>
-    <li>💡 <b>Expertise:</b> C#, .NET, Microservices Architecture, DevOps, Cloud Technologies</li>
-    <li>🌱 <b>Currently Exploring:</b> Node.js, Flutter, Cloud-native applications</li>
-</ul>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/osman-koc)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://osman-koc.medium.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/osmkoc)
 
-<hr>
+## About
 
-<h3>Technologies & Tools</h3>
+- 🎓 MSc & BSc in Computer Engineering
+- 💼 6+ years of industry experience
+- 💡 Specialized in C#, .NET, Node.js, Microservices, Web Development
+- 🚀 Current focus: Product Development
 
-<p align="left">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
-    <img src="https://img.shields.io/badge/Microservices-ff6a00?style=for-the-badge&logo=Microservices&logoColor=white" alt="Microservices"/>
-    <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-</p>
-
-<hr>
-
-<h3>Connect with Me</h3>
-
-<p align="left">
-    <a href="https://linkedin.com/in/osman-koc" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-12100E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://osman-koc.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-    <a href="https://twitter.com/osmkoc" target="_blank"><img src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=X" alt="X (Twitter)"/></a>
-</p>
-
-<hr>
-
-<h3>Latest Blog Posts</h3>
-<p align="left">
+## Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [Building Your Visual Studio Extension: A Step-by-Step Guide](https://osman-koc.medium.com/building-your-visual-studio-extension-a-step-by-step-guide-e58db07971a8/)
-- [Coding Convenience: Open Source Guid Generation Extensions for VS & VS Code](https://osman-koc.medium.com/coding-convenience-open-source-guid-generation-extensions-for-vs-vs-code-675a766fa496/)
+- [Coding Convenience: Open Source GUID Generation Extensions for VS & VS Code](https://osman-koc.medium.com/coding-convenience-open-source-guid-generation-extensions-for-vs-vs-code-675a766fa496/)
 <!-- BLOG-POST-LIST:END --> 
-
-</p>
-
-<hr>
-
-<h3>Github Stats</h3>
-<div align="center">
-    <img alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=osman-koc&show_icons=true&theme=radical&count_private=true">
-    <img alt="GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=osman-koc&theme=algolia&hide_border=true">
-</div>
-
-<hr>
-
-![](https://komarev.com/ghpvc/?username=osman-koc)
-
