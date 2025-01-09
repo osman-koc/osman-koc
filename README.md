@@ -10,4 +10,4 @@ Backend Developer with 7+ years of experience in software development and as an 
 
 - 🎓 MSc & BSc in Computer Engineering
 - 💡 Specialized in C#, .NET, Node.js, Microservices
-- 🚀 Current focus: No-code Framework Development
+- 🚀 Current focus: No-Code Framework Development and Scalable Platform Engineering
